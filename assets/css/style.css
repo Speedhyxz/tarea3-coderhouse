@@ -40,7 +40,7 @@ header .top-header {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("../assets/img/Ciudad.jpg") center/cover no-repeat;
+  background: url("/assets/img/Ciudad.jpg") center/cover no-repeat;
   z-index: -1;
   filter: blur(3px);
 }
